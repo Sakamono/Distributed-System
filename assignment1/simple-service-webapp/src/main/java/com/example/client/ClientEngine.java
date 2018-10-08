@@ -9,7 +9,7 @@ public class ClientEngine {
   public static void main(String[] args) {
     String ipAddress = "52.15.211.97";
     String port = "8080";
-    int threadNum = 100;
+    int threadNum = 50;
     int iterationNum = 100;
 
     if (args.length > 0) {
