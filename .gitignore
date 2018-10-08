@@ -1,0 +1,5 @@
+.DS_Store
+*.png
+assignment1/simple-service-webapp/target/*
+assignment1/simple-service-webapp/.idea/*
+assignment1/Assignment1_Report_XiaoyuZhang.docx
